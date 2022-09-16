@@ -1,0 +1,21 @@
+_id: req_wrk_eac7aa88cd1e42118a1fd35f4882413ada748d12
+type: Request
+parentId: fld_wrk_eac7aa88cd1e42118a1fd35f4882413a2c3cafa4
+modified: 1663350344780
+created: 1663350344780
+url: "{{ base_url }}/file/dummy.pdf"
+name: Get dummy PDF file
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1663350344780
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

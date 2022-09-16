@@ -1,0 +1,21 @@
+_id: req_wrk_eac7aa88cd1e42118a1fd35f4882413a45608a40
+type: Request
+parentId: fld_wrk_eac7aa88cd1e42118a1fd35f4882413a2c3cafa4
+modified: 1663350344781
+created: 1663350344781
+url: "{{ base_url }}/file/dummy.csv"
+name: Get dummy CSV file
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1663350344781
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

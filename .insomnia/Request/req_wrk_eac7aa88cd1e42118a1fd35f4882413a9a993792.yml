@@ -1,0 +1,21 @@
+_id: req_wrk_eac7aa88cd1e42118a1fd35f4882413a9a993792
+type: Request
+parentId: fld_wrk_eac7aa88cd1e42118a1fd35f4882413a0a893ece
+modified: 1663350344782
+created: 1663350344782
+url: "{{ base_url }}/pets/{{ id }}"
+name: Echo id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1663350344782
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
